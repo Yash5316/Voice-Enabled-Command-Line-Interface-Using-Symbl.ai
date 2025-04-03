@@ -30,6 +30,7 @@ https://user-images.githubusercontent.com/88224695/163598930-d56a1dd6-f606-4b48-
 
 CLIs have been around for decades but there has been no significantly new ways to use them. We've decided to change that using SmarTTY. SmarTTY is voice assisted natural human language understanding Terminal which can help you perform CLI tasks with much ease. So you leave behind wasting time googling for commands and spend more time coding your applications!
 
+
 <br>
 
 ## What is SmarTTY?  
